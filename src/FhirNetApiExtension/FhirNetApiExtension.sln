@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FhirNetApiExtension", "FhirNetApiExtension\FhirNetApiExtension.csproj", "{494F44BE-7C24-4F7C-9524-5E4701BFBA67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FhirNetApiExtensions.Test", "FhirNetApiExtensions.Test\FhirNetApiExtensions.Test.csproj", "{A709BC95-54EC-4FED-BCC5-63E2D7FEAB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{494F44BE-7C24-4F7C-9524-5E4701BFBA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{494F44BE-7C24-4F7C-9524-5E4701BFBA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{494F44BE-7C24-4F7C-9524-5E4701BFBA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A709BC95-54EC-4FED-BCC5-63E2D7FEAB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A709BC95-54EC-4FED-BCC5-63E2D7FEAB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A709BC95-54EC-4FED-BCC5-63E2D7FEAB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A709BC95-54EC-4FED-BCC5-63E2D7FEAB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
