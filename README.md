@@ -1,3 +1,3 @@
-# FHIR rest client extensions
-Extensions for fhir-net-api REST client:
-* HTTP header extensions
+# N3FhirClient
+Extension for fhir-net-api RestClient.
+Supports sending authorization headers for N3(Netrika) fhir services.
