@@ -1,20 +1,17 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>FhirNetApiExtension.dll</id>
-    <version>1.0.0</version>
-    <authors>user</authors>
-    <owners>user</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <id>fhir-net-api-extension</id>
+    <version>1.0.1</version>
+    <authors>Anton Lisney</authors>
+    <owners>Anton Lisney</owners>
+    <licenseUrl>https://github.com/lisney/fhir-rest-client-extensions/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/lisney/fhir-rest-client-extensions</projectUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/6482975</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package description</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>Netrika FhirClient with auth headers</description>
+    <releaseNotes>Basic authentification with guid token</releaseNotes>
     <copyright>Copyright 2015</copyright>
-    <tags>Tag1 Tag2</tags>
-    <dependencies>
-      <dependency id="SampleDependency" version="1.0" />
-    </dependencies>
+    <tags>fhir rest netrika auth</tags>
   </metadata>
 </package>
